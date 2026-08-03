@@ -1,37 +1,24 @@
-# Pull Request
+## Resource type _(required)_
 
-## Type of Change
+- [ ] GitHub Repository:
+    - [ ] **(Required)** I confirm that the GitHub repository has more than **10 stars**.
+    - [ ] **(Required)** The repository is not archived.
+- [ ] Video.
+- [ ] Tutorial.
+- [ ] Meetups.
+- [ ] Improve documentation _(grammatical corrections, improve doc style, ...)_.
 
-- [ ] Adding a new resource
-- [ ] Updating an existing resource
-- [ ] Removing an outdated resource
-- [ ] Fixing a bug (broken link, typo, etc.)
-- [ ] Other (please describe)
+> If your contribution is NOT a GitHub repository, then you can skip the next titles, except "Rules".
 
-## Description
+## Description _(required)_
 
-<!-- Briefly describe what this PR does -->
+_Brief description of the resource you are adding._
 
-## Checklist
+## Link _(required)_
 
-Please ensure your PR meets the following requirements:
+_Paste link here._
 
-- [ ] I have read the [contribution guidelines](../CONTRIBUTING.md)
-- [ ] The resource I'm adding has **at least 10 GitHub stars** (if applicable)
-- [ ] The link I'm adding is working and points to the correct resource
-- [ ] I have placed the resource in the appropriate category
-- [ ] The description is clear and concise
-- [ ] I have followed the existing format:
-  - `- [Name](URL) - Description.`
-  - For libraries with star badges: `- ![](star-badge-url) [Name](URL) - Description.`
+## Rules _(required)_
 
-## Resource Details (if adding a new resource)
-
-- **Name:** 
-- **URL:** 
-- **Category:** 
-- **GitHub Stars (if applicable):** 
-- **Why is this resource valuable to the NestJS community?**
-
-<!-- Thank you for contributing to Awesome NestJS! 🎉 -->
-
+- [ ] **NestJS / Nest**: It's not nest, nestjs, nest.js, and other variants.
+- [ ] **Node.js**: It's not nodejs, node, and other variants.
